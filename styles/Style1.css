@@ -428,6 +428,9 @@ button:active {
     .orangeLine button{
     margin-right: 100px;
     }
+    .table2firstColumn{
+        margin-left:450px;
+    }
 
 }
 @media (max-width: 1534px) {
